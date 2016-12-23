@@ -1,0 +1,4 @@
+alpha=0.007
+eps=0.8
+numTrainingEpisodes=10000000
+avgReturn=-0.03999
